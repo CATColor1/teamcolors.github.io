@@ -2,7 +2,7 @@
     {
         "team": "Arizona Diamondbacks",
         "colors": {
-            "hex"   :   ["A71930",          "000000",           "DBCEAC"]
+            "hex"   :   ["A71930",          "000000",           "E3D4AD"]
         }
     },
     {
@@ -74,7 +74,7 @@
     {
         "team": "Los Angeles Angels of Anaheim",
         "colors": {
-            "hex"   :   ["BA0021",          "003263"]           "C4CED4"]
+            "hex"   :   ["BA0021",          "003263",           "C4CED4"]
         }
     },
     {
