@@ -32,31 +32,31 @@
     {
         "name": "Carolina Hurricanes",
         "colors": {
-            "hex"   :   ["E03A3E",          "000000",           "8E8E90"]
+            "hex"   :   ["E51A38",          "B1B6BA",           "000000"]
         }
     },
     {
         "name": "Chicago Blackhawks",
         "colors": {
-            "hex"   :   ["E3263A",      "000000"]
+            "hex"   :   ["E51837",      "000000"]
         }
     },
     {
         "name": "Colorado Avalanche",
         "colors": {
-            "hex"   :   ["8B2942",      "01548A",           "000000",           "A9B0B8"]
+            "hex"   :   ["870038",      "B2B7BB",           "015696",           "000000"]
         }
     },
     {
         "name": "Columbus Blue Jackets",
         "colors": {
-            "hex"   :   ["00285C",      "E03A3E",           "A9B0B8"]
+            "hex"   :   ["002147",      "C60C30",           "A5ACAF"]
         }
     },
     {
         "name": "Dallas Stars",
         "colors": {
-            "hex"   :   ["006A4E",      "000000",           "C0C0C0"]
+            "hex"   :   ["016F4A",      "A7A8AC",           "000000"]
         }
     },
     {
@@ -104,7 +104,7 @@
     {
         "name": "New Jersey Devils",
         "colors": {
-            "hex"   :   ["E03A3E",          "000000"]
+            "hex"   :   ["E51837",          "000000"]
         }
     },
     {
@@ -134,7 +134,7 @@
     {
         "name": "Pittsburgh Penguins",
         "colors": {
-            "hex"   :   ["000000",          "D1BD80"]
+            "hex"   :   ["CCCC99",          "000000"            "FFCC33"]
         }
     },
     {
